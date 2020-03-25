@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Emila\bowling\src\main.cpp(57,21): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\User\Desktop\Emila\bowling\src\main.cpp(213,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\User\Desktop\Emila\bowling\src\main.cpp(312,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+Camera.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/INCREMENTAL:NO”
+PhysXExtensions_static_32.lib(ExtCpuWorkerThread.obj) : warning LNK4099: nie znaleziono pliku PDB „PhysXExtensions_static_32.pdb” z elementem „PhysXExtensions_static_32.lib(ExtCpuWorkerThread.obj)” lub w pozycji „C:\Users\User\Desktop\Emila\bowling\Debug\PhysXExtensions_static_32.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+PhysXExtensions_static_32.lib(ExtDefaultCpuDispatcher.obj) : warning LNK4099: nie znaleziono pliku PDB „PhysXExtensions_static_32.pdb” z elementem „PhysXExtensions_static_32.lib(ExtDefaultCpuDispatcher.obj)” lub w pozycji „C:\Users\User\Desktop\Emila\bowling\Debug\PhysXExtensions_static_32.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+PhysXExtensions_static_32.lib(ExtDefaultErrorCallback.obj) : warning LNK4099: nie znaleziono pliku PDB „PhysXExtensions_static_32.pdb” z elementem „PhysXExtensions_static_32.lib(ExtDefaultErrorCallback.obj)” lub w pozycji „C:\Users\User\Desktop\Emila\bowling\Debug\PhysXExtensions_static_32.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+PhysXExtensions_static_32.lib(ExtDefaultSimulationFilterShader.obj) : warning LNK4099: nie znaleziono pliku PDB „PhysXExtensions_static_32.pdb” z elementem „PhysXExtensions_static_32.lib(ExtDefaultSimulationFilterShader.obj)” lub w pozycji „C:\Users\User\Desktop\Emila\bowling\Debug\PhysXExtensions_static_32.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+PhysXExtensions_static_32.lib(ExtRigidBodyExt.obj) : warning LNK4099: nie znaleziono pliku PDB „PhysXExtensions_static_32.pdb” z elementem „PhysXExtensions_static_32.lib(ExtRigidBodyExt.obj)” lub w pozycji „C:\Users\User\Desktop\Emila\bowling\Debug\PhysXExtensions_static_32.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  bowling.vcxproj -> C:\Users\User\Desktop\Emila\bowling\Debug\bowling.exe

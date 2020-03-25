@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Emila\bowling\Debug\bowling.exe
+C:\Users\User\Desktop\Emila\bowling\Debug\bowling.pdb
